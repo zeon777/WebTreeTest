@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebTree:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CRUDdan.war">
+      <element id="artifact" artifact-name="WebTree:war exploded" />
+    </root>
+  </artifact>
+</component>
